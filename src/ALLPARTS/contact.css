@@ -1,0 +1,133 @@
+@media screen and (max-width:1928px){
+.cpart{
+    width: 100%;
+    display: flex;
+   
+    background-color: black;
+    flex-direction: column;
+align-items: center;
+justify-content: space-around;
+}
+.tpart
+{ width: 80%;
+    height: 20%;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+}
+.tpart h1{
+    font-size: 60px;
+    color: white;
+}
+
+.bpart
+{ width: 90%;
+    height: 70%;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    border: 5px solid white;
+   background-image: linear-gradient(270deg,darkred,darkblue);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+.lpart{
+    width: 45%;
+    margin: 20px;
+    height: 80%;
+    background-color: black;
+    border: 5px solid white;
+   text-align: center;
+    color: white;
+}
+
+.lpart div{
+    width: 70%;
+    margin: auto;
+    
+}
+
+.rpart{  border: 5px solid white;
+    width: 45%;
+    height: 80%;
+    margin: 20px;
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+.lpart div{
+    width: 70%;
+    margin: auto;
+    
+}}
+
+@media screen and (max-width:1000px){
+    .cpart{
+        width: 100%;
+        display: flex;
+       
+        background-color: black;
+        flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    }
+    .tpart
+    { width: 80%;
+        height: 20%;
+        background-color:black;
+        display: flex;
+        justify-content: center;
+    }
+    .tpart h1{
+        font-size: 60px;
+        color: white;
+    }
+    
+    .bpart
+    { width: 90%;
+        height: 70%;
+        background-color:black;
+        display: flex;
+        justify-content: center;
+        border: 5px solid white;
+       background-image: linear-gradient(270deg,darkred,darkblue);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+    
+    .lpart{
+        width: 90%;
+        height: 80%;
+        background-color: black;
+        border: 5px solid white;
+       text-align: center;
+        color: white;
+        margin: 20px;
+    }
+    
+    .lpart div{
+        width: 70%;
+        margin: auto;
+        
+    }
+    
+    .rpart{  border: 5px solid white;
+        width: 90%;
+        margin: 20px;
+        height: 80%;
+        background-color:black;
+        color: white;
+        text-align: center;
+    }
+    
+    .lpart div{
+        width: 70%;
+        margin: auto;
+        
+    }}

@@ -1,0 +1,81 @@
+@media screen and (max-width:1928px){
+.fo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.himg{
+    margin: 30px;
+    height: 300px;
+    width: 300px;
+    position: relative
+}
+
+.himg img{
+    height: 300px;
+    width: 300px;
+}
+
+.htext{
+    font-size: 30px;
+    position: absolute;
+   top: 10px;
+    display: none;
+    flex-wrap: wrap;
+}
+
+.himg:hover>.htext{
+    font-size: 40px;
+    position: absolute;
+    background-color: black;
+    top:40%;
+    left:20%;
+    display: inline;
+    color: wheat;
+    transition: display 1s;
+    
+}}
+
+@media screen and (max-width:900px){
+    .fo{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+    
+    }
+    
+    .himg{
+        margin: 30px;
+        height: 300px;
+        width: 300px;
+        position: relative
+    }
+    
+    .himg img{
+        height: 300px;
+        width: 300px;
+    }
+    
+    .htext{
+        font-size: 30px;
+        position: absolute;
+       top: 10px;
+        display: none;
+        flex-wrap: wrap;
+    }
+    
+    .himg:hover>.htext{
+        font-size: 30px;
+        position: absolute;
+        background-color: black;
+        top:40%;
+        left:30%;
+        display: inline;
+        color: wheat;
+        transition: display 1s;
+        
+    }}
+    
+    

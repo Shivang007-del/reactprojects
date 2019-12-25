@@ -1,0 +1,51 @@
+@media screen and (max-width:1928px){
+.bimagecss{
+    background-attachment: fixed;
+    background-image: url(https://wallpaperaccess.com/full/1127097.jpg);
+    height: 70vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+ overflow: hidden;
+}
+
+.nametxt{
+    font-size: 90px;
+    font-family: cursive;
+    width: 60%;
+    height: 50vh;
+   color: white;
+    text-align: center;
+    background-color:rgba(0, 0, 0, .4);
+    margin-top: 100px;
+   
+   
+    
+}}
+
+@media screen and (max-width:1000px){
+    .bimagecss{
+        background-attachment: fixed;
+        background-image: url(https://wallpaperaccess.com/full/1127097.jpg);
+        height: 70vh;
+        width: 100vw;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+     overflow: hidden;
+    }
+    
+    .nametxt{
+        font-size: 50px;
+        font-family: cursive;
+        width: 60%;
+        height: 50vh;
+       color: white;
+        text-align: center;
+        background-color:rgba(0, 0, 0, .4);
+        margin-top: 100px;
+       
+       
+        
+    }}

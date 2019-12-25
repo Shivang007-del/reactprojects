@@ -1,0 +1,157 @@
+@media screen and (max-width:1928px){
+    .btnsection{
+        height: 15vh;
+        width: 50%;
+        width:50%;
+        margin: auto;
+        
+        background-image: linear-gradient(rgb(184, 0, 0),rgb(247, 0, 0));
+        font-size: 30px;
+        font-family:'Times New Roman', Times, serif;
+     
+        
+    }
+    .btnsection:hover{
+        height: 15vh;
+        width: 50%;
+      
+       
+        background-image: linear-gradient(rgb(0, 43, 66),rgb(0, 0, 0));
+        color: white;
+        font-size: 30px;
+        font-family:'Times New Roman', Times, serif;
+        transform: scale(1.1);
+        transition: all .8s;
+
+
+        
+    }
+
+    .bb{
+        width: 80%;
+        margin: auto;
+        
+    }
+
+      .pp{
+          width: 50%;
+          background-color: aqua;
+          margin: auto;
+        
+          background-size: cover;
+         color: white;
+         text-align: center;
+         font-family: cursive;
+         margin-top: 20px;
+          background-image: url('https://www.phdmedia.com/australia/wp-content/uploads/sites/23/2018/09/Preview-Image-1.jpg');
+      }
+      .pp h1{
+          width: 70%;
+          margin: auto;
+
+      
+    }
+      
+}
+    
+    @media screen and (max-width:1000px){
+        .btnsection{
+            height: 10vh;
+           
+            width: 50%;
+            background-image: linear-gradient(rgb(248, 2, 2),rgb(236, 0, 0));
+            font-size: 20px;
+           
+            font-family:'Times New Roman', Times, serif;
+         
+            
+        }
+        .btnsection:hover{
+            height: 10vh;
+            width: 50%;
+         margin: auto;
+            background-image: linear-gradient(rgb(0, 43, 66),rgb(0, 0, 0));
+            color: white;
+            font-size: 10px;
+           
+            font-family:'Times New Roman', Times, serif;
+            transition: all .8s;
+            
+        }
+        .bb{
+            width: 80%;
+            margin: auto;
+            
+        }
+        .pp{
+            width: 70%;
+            
+            margin: auto;
+          
+            background-size: cover;
+           color: white;
+           text-align: center;
+           font-family: cursive;
+           margin-top: 20px;
+            background-image: url('https://www.phdmedia.com/australia/wp-content/uploads/sites/23/2018/09/Preview-Image-1.jpg');
+        }
+        .pp h1{
+            width: 70%;
+            font-size: 20px;
+            font-weight: 100;
+            margin: auto;
+  
+        
+      }}
+
+
+      @media screen and (max-width:617px){
+        .btnsection{
+            height: 10vh;
+           
+            width: 80%;
+            background-image: linear-gradient(rgb(248, 2, 2),rgb(236, 0, 0));
+            font-size: 10px;
+            margin: 5px;
+           
+            font-family:'Times New Roman', Times, serif;
+         
+            
+        }
+        .btnsection:hover{
+            height: 10vh;
+            width: 80%;
+         margin: auto;
+            background-image: linear-gradient(rgb(0, 43, 66),rgb(0, 0, 0));
+            color: white;
+            font-size: 10px;
+           
+            font-family:'Times New Roman', Times, serif;
+            transition: all .8s;
+            
+        }
+        .bb{
+            width: 80%;
+            margin: auto;
+            
+        }
+        .pp{
+            width: 70%;
+            
+            margin: auto;
+          
+            background-size: cover;
+           color: white;
+           text-align: center;
+           font-family: cursive;
+           margin-top: 20px;
+            background-image: url('https://www.phdmedia.com/australia/wp-content/uploads/sites/23/2018/09/Preview-Image-1.jpg');
+        }
+        .pp h1{
+            width: 70%;
+            font-size: 20px;
+            font-weight: 100;
+            margin: auto;
+  
+        
+      }}

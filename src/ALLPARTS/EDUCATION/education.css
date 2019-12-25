@@ -1,0 +1,170 @@
+@media screen and (max-width:1928px){
+.edu {
+    
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    
+    
+    
+}
+
+.in1{
+    width: 50%;
+   background-color: cornsilk;
+    
+}
+.line{
+    border: 5px dotted black;
+    height: 90%;
+    width: .1%;
+    margin: auto;
+    margin-top: 10px;
+    position: relative;
+    top:10px;
+    
+}
+.img1{
+    position:sticky;
+    height: 100px;
+    width: 100px;
+    left: 50%;
+    top: 100px;
+}
+.img1 img{
+    position:sticky;
+    height: 100px;
+    width: 100px;
+    left: 50%;
+    top: 100px;
+    transform: rotate(90deg);
+}
+
+
+
+
+
+
+
+.in2{
+    background-color: black;
+    width: 50%;
+}
+.inedu {
+    background-image: linear-gradient(rgb(252, 0, 0),steelblue);
+    width: 100%;
+    text-align: center;
+    color:cyan;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.8rem;
+    width: 80%;
+
+
+}
+
+.inedu:hover {
+    background-image: linear-gradient(steelblue,rgb(252, 0, 0));
+    width: 100%;
+    text-align: center;
+    box-shadow: 10px 10px 5px 5px rgb(41, 0, 95);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.8rem;
+    width: 80%;
+    transition: all 2s;
+    
+
+
+}
+
+.inedu  {
+    
+
+margin: 50px;
+}
+}
+
+@media screen and (max-width:1000px){
+    .edu {
+        
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        
+        
+        
+    }
+    
+    .in1{
+        width: 50%;
+       background-color: cornsilk;
+        
+    }
+    .line{
+        border: 5px dotted black;
+        height: 90%;
+        width: .1%;
+        margin: auto;
+        margin-top: 10px;
+        position: relative;
+        top:10px;
+        
+    }
+    .img1{
+        position:sticky;
+        height: 50px;
+        width: 50px;
+        left: 50%;
+        top: 100px;
+    }
+    .img1 img{
+        position:sticky;
+        height: 50px;
+        width: 50px;
+        left: 50%;
+        top: 100px;
+        transform: rotate(90deg);
+    }
+   
+    
+    
+    
+    
+    
+    
+    .in2{
+        background-color: black;
+        width: 50%;
+    }
+    .inedu {
+        background-image: linear-gradient(rgb(252, 0, 0),steelblue);
+        width: 100%;
+        text-align: center;
+        color:cyan;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1rem;
+        width: 80%;
+    
+    
+    }
+    
+    .inedu:hover {
+        background-image: linear-gradient(steelblue,rgb(252, 0, 0));
+        width: 100%;
+        text-align: center;
+        box-shadow: 10px 10px 5px 5px rgb(41, 0, 95);
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 1rem;
+        width: 80%;
+        transition: all 2s;
+        
+    
+    
+    }
+    
+    .inedu  {
+        
+    
+    margin: auto;padding-top: 50px;
+    margin-top: 25px;
+    }
+    }

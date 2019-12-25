@@ -1,0 +1,47 @@
+@media screen and (max-width:1928px){
+.btnsection{
+    height: 15vh;
+    width: 25%;
+    margin-top: 50px;
+    background-image: linear-gradient(grey,white);
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+ 
+    
+}
+.btnsection:hover{
+    height: 15vh;
+    width: 25%;
+    margin-top: 20px;
+    background-image: linear-gradient(rgb(0, 43, 66),rgb(0, 0, 0));
+    color: white;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    transform: scale(1.1);
+    transition: all .8s;
+    
+}}
+
+@media screen and (max-width:1000px){
+    .btnsection{
+        height: 10vh;
+        width: 25%;
+        margin-top: 50px;
+        background-image: linear-gradient(grey,white);
+        font-size: 10px;
+        font-family:'Times New Roman', Times, serif;
+     
+        
+    }
+    .btnsection:hover{
+        height: 10vh;
+        width: 25%;
+     margin: auto;
+        background-image: linear-gradient(rgb(0, 43, 66),rgb(0, 0, 0));
+        color: white;
+        font-size: 10px;
+        margin-top: 20px;
+        font-family:'Times New Roman', Times, serif;
+        transition: all .8s;
+        
+    }}

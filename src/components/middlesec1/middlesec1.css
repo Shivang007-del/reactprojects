@@ -1,0 +1,76 @@
+@media screen and (max-width:1928px){
+.middlesec1{
+    width: 76%;
+   
+    margin: auto;
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: rgba(70, 11, 146, 0.3);
+   margin-top: 125px;
+   text-align: center;
+   color:darkgrey;
+}
+
+.middlesec1:hover{
+    width: 76%;
+    margin: auto;
+    font-size: 2rem;
+   
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: rgba(0, 0, 0, 0.6);
+   text-align: center;
+   color:white;
+   box-shadow: 0px 0px 5px 5px cornflowerblue;
+   transform: scaleY(1.1);
+   margin-top: 125px;
+   transition: all .3s;
+}
+
+.middlesec1:hover p b{
+    width: 76%;
+    margin: auto;
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: rgba(0, 0, 0, 0.6);
+   text-align: center;
+   color:lime;
+   transform: scaleY(1.1);
+   transition: all .3s;
+}}
+
+@media screen and (max-width:1000px){
+    .middlesec1{
+        width: 76%;
+        margin: auto;
+        margin-top: 125px;
+        font-size: 2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       background-color: rgba(70, 11, 146, 0.3);
+       text-align: center;
+       color:darkgrey;
+    }
+    
+    .middlesec1:hover{
+        width: 76%;
+        margin: auto;
+        font-size: 2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       background-color: rgba(0, 0, 0, 0.6);
+       text-align: center;
+       color:white;
+       box-shadow: 0px 0px 5px 5px cornflowerblue;
+      margin-top: 125px;
+       transition: all .3s;
+    }
+    
+    .middlesec1:hover p b{
+        width: 76%;
+        margin: auto;
+        font-size: 2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       background-color: rgba(0, 0, 0, 0.6);
+       text-align: center;
+       color:lime;
+      
+      
+    }}
