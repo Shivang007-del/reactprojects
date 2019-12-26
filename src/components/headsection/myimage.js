@@ -1,5 +1,5 @@
 import React from 'react';
-import img1 from '../../assets/IMG_1140.JPG'
+import img1 from './Capture.PNG'
 import classes from './myimage.css'
 
 const myimage=()=>(
