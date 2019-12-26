@@ -9,7 +9,7 @@ let part ='projects';
      case 'education':
          part=<div className={classes.pp}>
              <h1>
-                An real world ecommerce website was made .Frontend languages used was HTML ,CSS ,BOOTSTRAP .
+                A real world ecommerce website was made .Frontend languages used was HTML ,CSS ,BOOTSTRAP .
                  To handle backend part of project PHP ,SQL was used.
              </h1>
          </div>
