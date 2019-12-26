@@ -26,8 +26,8 @@ let part ='projects';
          case 'projects':
             part=<div className={classes.pp}>
                 <h1>
-                An online test portal was made .Frontend languages used was HTML ,CSS ,BOOTSTRAP .
-                 To handle backend part of project PHP ,SQL was used.It shows marks scored in the end.
+                An online test portal was made .Frontend languages used were HTML ,CSS ,BOOTSTRAP .
+                 To handle backend part of project PHP ,SQL was used.It also shows marks scored in the end.
                 </h1>
             </div>
             break;

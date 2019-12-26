@@ -1,7 +1,7 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
-
+  "homepage":"http://Shivang007-del.github.io/deploy-react",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.2",
